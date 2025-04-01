@@ -1,4 +1,4 @@
-# Import required libraries
+# Import required libraries.
 # Note: Fixed typo in 'from' and corrected library names
 from gpiozero import LED          # For controlling the LED
 from w1thermsensor import W1ThermSensor  # For DS18B20 temperature sensor
